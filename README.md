@@ -75,4 +75,7 @@ The `10 dos of programming.docx` and `10 dos of programming.png` files provide a
 
 ## Module Three Assignment
 
-The `Module three assignment.png` file is an image related to the assignment from module three of the course. For detailed information about this assignment, please refer to the course materials or contact the course instructor.
+The `Module three assignment.png` file is an image related to the assignment from module three of the course. For detailed information about this assignment, please refer to the course materials.
+
+## license
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
